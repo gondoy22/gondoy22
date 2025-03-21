@@ -6,7 +6,6 @@ I'm a student at the Warsaw University of Technology (WUT), studying Statistics 
 
 - **Languages:** Python, R, SQL
 - **Libraries/Frameworks:** Pandas, NumPy, Scikit-Learn, TensorFlow, Keras
-- **Tools:** Jupyter, Git, Docker
 
 ##  Currently Learning
 
