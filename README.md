@@ -4,7 +4,7 @@ I'm a student at the Warsaw University of Technology (WUT), studying Statistics 
 
 ## Technologies & Tools
 
-- **Languages:** Python, R, SQL
+- **Languages:** Python, R, SQL, PowerBI
 - **Libraries/Frameworks:** Pandas, NumPy, Scikit-Learn, TensorFlow, Keras
 
 ##  Currently Learning
