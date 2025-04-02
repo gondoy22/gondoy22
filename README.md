@@ -17,4 +17,4 @@ I'm a student at the Warsaw University of Technology (WUT), studying Statistics 
 
 - Email: [agondek2003@gmail.com](mailto:agondek2003@gmail.com)
 
-Feel free to check out my repositories and reach out if you're interested in collaborating or sharing ideas!
+Feel free to check out my repositories and reach out.
