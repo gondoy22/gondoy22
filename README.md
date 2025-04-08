@@ -1,6 +1,6 @@
 # Hi there! I'm Antoni Gondek 
 
-I'm a student at the Warsaw University of Technology (WUT), studying Statistics and Data Analysis. I'm passionate about Machine Learning, Data Analytics, and exploring the power of data to solve complex problems.
+I'm a student at the Warsaw University of Technology (WUT), studying Statistics and Data Analysis. I'm passionate about Machine Learning and its application in insurance problems and financial mathematics.
 
 ## Technologies & Tools
 
